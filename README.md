@@ -44,7 +44,7 @@ def classification_Compare(data,model,K):
 
 1. Team Member Contribution
     
-    201835543한수민 33%
+    201835543 한수민 33%
     
     202035512 김지수 33%
     
